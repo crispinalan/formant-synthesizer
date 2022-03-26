@@ -18,4 +18,4 @@ You should hear the formant speech synthesizer saying "Hello world I am a speech
 
 ## Summary
 
-Unfortunately, I could not get get statisfactory results in terms of audible speech with this apporach to speech synthesis. This was dissapointing. [Talk Calendar](https://github.com/crispinalan/talkcalendar) uses a phoneme based synthesizer. 
+Unfortunately, I could not get get statisfactory results in terms of audible speech with this approach to speech synthesis. This was dissapointing. [Talk Calendar](https://github.com/crispinalan/talkcalendar) uses a phoneme based synthesizer. 
